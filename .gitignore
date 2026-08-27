@@ -1,0 +1,8 @@
+# Local build and release artifacts
+/bin/
+/dist/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
